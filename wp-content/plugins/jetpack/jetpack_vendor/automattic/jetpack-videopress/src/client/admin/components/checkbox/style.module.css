@@ -1,0 +1,24 @@
+.checkbox[type=checkbox] {
+  all: unset;
+  border: 1px solid var(--jp-black);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  border-radius: 2px;
+  margin: 0;
+  padding: 2px !important;
+}
+.checkbox[type=checkbox]:checked::before, .checkbox[type=checkbox]::before {
+  content: "";
+  width: 18px;
+  height: 18px;
+  margin: 0;
+}
+.checkbox[type=checkbox]:checked::before {
+  background: var(--jp-black);
+}
+.checkbox[type=checkbox]:disabled {
+  border: 1px solid var(--jp-gray-10);
+}/*# sourceMappingURL=style.module.css.map */

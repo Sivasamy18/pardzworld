@@ -1,0 +1,13 @@
+.selector {
+  --video-thumbnail-selector-modal-thumbnail-width: 500px;
+  max-width: var(--video-thumbnail-selector-modal-thumbnail-width);
+}
+.selector:not(.is-small) {
+  width: var(--video-thumbnail-selector-modal-thumbnail-width);
+}
+.selector .actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: calc(var(--spacing-base) * 2);
+  gap: calc(var(--spacing-base) * 2);
+}/*# sourceMappingURL=style.module.css.map */

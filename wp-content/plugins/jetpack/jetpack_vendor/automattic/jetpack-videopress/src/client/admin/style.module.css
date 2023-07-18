@@ -1,0 +1,10 @@
+:global .jetpack_page_jetpack-videopress .components-modal__header {
+  border-bottom: 1px solid transparent;
+  height: 76px;
+}
+:global .jetpack_page_jetpack-videopress .components-modal__header .components-modal__header-heading {
+  font-size: 1.2rem;
+}
+.components-modal__content.has-scrolled-content:not(.hide-header) :global .jetpack_page_jetpack-videopress .components-modal__header {
+  border-bottom-color: #ddd;
+}/*# sourceMappingURL=style.module.css.map */

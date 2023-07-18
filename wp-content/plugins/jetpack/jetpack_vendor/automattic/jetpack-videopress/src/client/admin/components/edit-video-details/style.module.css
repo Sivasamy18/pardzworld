@@ -1,0 +1,53 @@
+:global #wpbody-content > .notice {
+  display: none;
+}
+:global .jetpack-videopress-jitm-card .jitm-card {
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.header-wrapper:not(.small) {
+  display: flex;
+  align-items: start;
+}
+.header-wrapper.small .header-content {
+  align-items: end;
+}
+.header-wrapper .logo-button {
+  all: unset;
+  cursor: pointer;
+}
+.header-wrapper .header-content {
+  display: flex;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+.header-wrapper .breadcrumb {
+  display: flex;
+  gap: var(--spacing-base);
+  align-items: center;
+  color: var(--jp-gray-40);
+}
+.header-wrapper .breadcrumb:not(.small) {
+  margin-left: var(--spacing-base);
+}
+
+.input {
+  margin-top: calc(var(--spacing-base) * 3);
+}
+
+.back-link {
+  display: flex;
+}
+.back-link .icon {
+  width: 16px;
+  margin-right: 4px;
+}
+.back-link .link {
+  margin-bottom: calc(var(--spacing-base) * 3);
+  font-size: 14px;
+  color: var(--jp-gray-70);
+  display: flex;
+  text-decoration: none;
+  align-items: center;
+}/*# sourceMappingURL=style.module.css.map */

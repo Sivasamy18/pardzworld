@@ -1,0 +1,9 @@
+.learn-how-notice {
+  margin: 0;
+}
+.learn-how-notice.is-dismissible {
+  padding-right: 12px;
+}
+.learn-how-notice .learn-how-notice__message {
+  margin: 0;
+}/*# sourceMappingURL=styles.css.map */

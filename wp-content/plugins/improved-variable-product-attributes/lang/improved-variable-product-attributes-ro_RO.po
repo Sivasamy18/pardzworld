@@ -1,0 +1,857 @@
+# Copyright (C) 2022 Improved Product Options for WooCommerce
+# This file is distributed under the same license as the Improved Product Options for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Improved Product Options for WooCommerce 5.3.2\n"
+"Report-Msgid-Bugs-To: https://help.xforwoocommerce.com\n"
+"POT-Creation-Date: 2022-02-19 16:14:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-02-19 16:14:05+00:00\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#: improved-variable-product-attributes.php:72
+msgid ""
+"This plugin requires WooCommerce. Download it from WooCommerce official "
+"website"
+msgstr ""
+
+#: includes/ivpa-frontend.php:419 includes/ivpa-frontend.php:1010
+#: includes/ivpa-frontend.php:1074
+msgid "Select"
+msgstr ""
+
+#: includes/ivpa-frontend.php:420
+msgid "Add to cart"
+msgstr ""
+
+#: includes/ivpa-frontend.php:421
+msgid "Select options"
+msgstr ""
+
+#: includes/ivpa-frontend.php:427
+msgid "View Cart"
+msgstr ""
+
+#: includes/ivpa-frontend.php:1239
+msgid "No terms. Use cogs/paint bucket tool to set."
+msgstr ""
+
+#: includes/ivpa-frontend.php:1287
+msgid "Qty:"
+msgstr ""
+
+#: includes/ivpa-frontend.php:1411
+msgid "Clear selection"
+msgstr ""
+
+#: includes/ivpa-frontend.php:1494
+msgid "Including it adds to price"
+msgstr ""
+
+#: includes/ivpa-frontend.php:1497
+msgid "Including it reduces from price"
+msgstr ""
+
+#: includes/ivpa-frontend.php:1549 includes/ivpa-settings.php:286
+msgid "This option is required"
+msgstr ""
+
+#: includes/ivpa-frontend.php:1552
+msgid "This option is not required"
+msgstr ""
+
+#: includes/ivpa-settings.php:10
+msgid "Improved Options for WooCommerce"
+msgstr ""
+
+#: includes/ivpa-settings.php:11 includes/ivpa-settings.php:98
+#: includes/ivpa-settings.php:99
+msgid "Product Options"
+msgstr ""
+
+#: includes/ivpa-settings.php:82
+msgid "Settings page for"
+msgstr ""
+
+#: includes/ivpa-settings.php:85
+msgid "Visit XforWooCommerce.com"
+msgstr ""
+
+#: includes/ivpa-settings.php:89
+msgid "Get help"
+msgstr ""
+
+#: includes/ivpa-settings.php:94
+msgid "Dashboard"
+msgstr ""
+
+#: includes/ivpa-settings.php:95
+msgid "Dashboard Overview"
+msgstr ""
+
+#: includes/ivpa-settings.php:102
+msgid "General"
+msgstr ""
+
+#: includes/ivpa-settings.php:103
+msgid "General Options"
+msgstr ""
+
+#: includes/ivpa-settings.php:106
+msgid "Product Page"
+msgstr ""
+
+#: includes/ivpa-settings.php:107
+msgid "Product Page Options"
+msgstr ""
+
+#: includes/ivpa-settings.php:110
+msgid "Shop/Archives"
+msgstr ""
+
+#: includes/ivpa-settings.php:111
+msgid "Shop/Archives Options"
+msgstr ""
+
+#: includes/ivpa-settings.php:114
+msgid "Installation"
+msgstr ""
+
+#: includes/ivpa-settings.php:115
+msgid "Installation Options"
+msgstr ""
+
+#: includes/ivpa-settings.php:129
+msgid "Visit XforWooCommerce.com store, demos and knowledge base."
+msgstr ""
+
+#: includes/ivpa-settings.php:134
+msgid "Help Center"
+msgstr ""
+
+#: includes/ivpa-settings.php:135
+msgid "Need support? Visit the Help Center."
+msgstr ""
+
+#: includes/ivpa-settings.php:140
+msgid "Automatic Updates"
+msgstr ""
+
+#: includes/ivpa-settings.php:141
+msgid ""
+"Get automatic updates, by downloading and installing the Envato Market "
+"plugin."
+msgstr ""
+
+#: includes/ivpa-settings.php:149
+msgid "Plugin Options"
+msgstr ""
+
+#: includes/ivpa-settings.php:152
+msgid "Quick export/import, backup and restore, or just reset your optons here"
+msgstr ""
+
+#: includes/ivpa-settings.php:157
+msgid "Options Manager"
+msgstr ""
+
+#: includes/ivpa-settings.php:159
+msgid ""
+"Use the manager to customize your attributes or add custom product options!"
+msgstr ""
+
+#: includes/ivpa-settings.php:169
+msgid "Attribute Swatch"
+msgstr ""
+
+#: includes/ivpa-settings.php:170
+msgid "Custom Option"
+msgstr ""
+
+#: includes/ivpa-settings.php:175
+msgid "Select Attribute"
+msgstr ""
+
+#: includes/ivpa-settings.php:177
+msgid "Select attribute to customize"
+msgstr ""
+
+#: includes/ivpa-settings.php:184 includes/ivpa-settings.php:221
+#: includes/svx-settings/svx-settings.php:466
+#: includes/svx-settings/svx-settings.php:531
+msgid "Name"
+msgstr ""
+
+#: includes/ivpa-settings.php:186
+msgid "Use alternative title"
+msgstr ""
+
+#: includes/ivpa-settings.php:191 includes/ivpa-settings.php:228
+msgid "Description"
+msgstr ""
+
+#: includes/ivpa-settings.php:193
+msgid "Enter description"
+msgstr ""
+
+#: includes/ivpa-settings.php:198 includes/ivpa-settings.php:277
+#: includes/ivpa-settings.php:390
+msgid "Shop Display Mode"
+msgstr ""
+
+#: includes/ivpa-settings.php:200 includes/ivpa-settings.php:279
+msgid ""
+"Show on Shop Pages (Works with Shop Display Mode set to Show Available "
+"Options Only)"
+msgstr ""
+
+#: includes/ivpa-settings.php:205
+msgid "Attribute is Selectable"
+msgstr ""
+
+#: includes/ivpa-settings.php:207
+msgid ""
+"This option is in use only with simple products and when General &gt; "
+"Attribute Selection Support option is set to All Products"
+msgstr ""
+
+#: includes/ivpa-settings.php:212 includes/ivpa-settings.php:284
+msgid "Required"
+msgstr ""
+
+#: includes/ivpa-settings.php:214
+msgid ""
+"This option is required (Only works on simple products, variable product "
+"attributes are required by default)"
+msgstr ""
+
+#: includes/ivpa-settings.php:223
+msgid "Set option name"
+msgstr ""
+
+#: includes/ivpa-settings.php:230
+msgid "Enter description for current option"
+msgstr ""
+
+#: includes/ivpa-settings.php:235
+msgid "Add Price"
+msgstr ""
+
+#: includes/ivpa-settings.php:237
+msgid "Add-on price if option is used by customer"
+msgstr ""
+
+#: includes/ivpa-settings.php:242
+msgid "Condition"
+msgstr ""
+
+#: includes/ivpa-settings.php:244
+msgid "Enter condition | Sample: &rarr; "
+msgstr ""
+
+#: includes/ivpa-settings.php:249
+msgid "Limit to Product Type"
+msgstr ""
+
+#: includes/ivpa-settings.php:251
+msgid "Enter product types separated by | Sample: &rarr; "
+msgstr ""
+
+#: includes/ivpa-settings.php:256
+msgid "Limit to Product Category"
+msgstr ""
+
+#: includes/ivpa-settings.php:258
+msgid "Enter product category IDs separated by | Sample: &rarr; "
+msgstr ""
+
+#: includes/ivpa-settings.php:263
+msgid "Limit to Products"
+msgstr ""
+
+#: includes/ivpa-settings.php:265
+msgid "Enter product IDs separated by | Sample: &rarr; "
+msgstr ""
+
+#: includes/ivpa-settings.php:270
+msgid "Multiselect"
+msgstr ""
+
+#: includes/ivpa-settings.php:272
+msgid "Use multi select on this option"
+msgstr ""
+
+#: includes/ivpa-settings.php:295
+msgid "Use Plugin In Product Pages"
+msgstr ""
+
+#: includes/ivpa-settings.php:297
+msgid "Check this option to use the plugin selectors in Single Product Pages."
+msgstr ""
+
+#: includes/ivpa-settings.php:304
+msgid "Use Plugin In Shop"
+msgstr ""
+
+#: includes/ivpa-settings.php:306
+msgid "Check this option to use the plugin styled selectors in Shop Pages."
+msgstr ""
+
+#: includes/ivpa-settings.php:314
+msgid "Hide WooCommerce Select Boxes"
+msgstr ""
+
+#: includes/ivpa-settings.php:316
+msgid ""
+"Check this option to hide default WooCommerce select boxes in Product Pages."
+msgstr ""
+
+#: includes/ivpa-settings.php:323
+msgid "Hide Add To Cart Before Selection"
+msgstr ""
+
+#: includes/ivpa-settings.php:325
+msgid ""
+"Check this option to hide the Add To Cart button in Product Pages before the "
+"selection is made."
+msgstr ""
+
+#: includes/ivpa-settings.php:332
+msgid "Select Descriptions Position"
+msgstr ""
+
+#: includes/ivpa-settings.php:334
+msgid "Select where to show descriptions."
+msgstr ""
+
+#: includes/ivpa-settings.php:337
+msgid "After Title"
+msgstr ""
+
+#: includes/ivpa-settings.php:338
+msgid "After Attributes"
+msgstr ""
+
+#: includes/ivpa-settings.php:345
+msgid "AJAX Add To Cart"
+msgstr ""
+
+#: includes/ivpa-settings.php:347
+msgid "Check this option to enable AJAX add to cart in Product Pages."
+msgstr ""
+
+#: includes/ivpa-settings.php:354
+msgid "Use Advanced Image Switcher"
+msgstr ""
+
+#: includes/ivpa-settings.php:356
+msgid ""
+"Check this option to enable advanced image switcher in Single Product Pages. "
+"This option enables image switch when a single attribute is selected."
+msgstr ""
+
+#: includes/ivpa-settings.php:364 includes/ivpa-settings.php:418
+msgid "Price Total"
+msgstr ""
+
+#: includes/ivpa-settings.php:366 includes/ivpa-settings.php:420
+msgid "Select price to use for product options cost total."
+msgstr ""
+
+#: includes/ivpa-settings.php:369 includes/ivpa-settings.php:423
+msgid "Disable"
+msgstr ""
+
+#: includes/ivpa-settings.php:370
+msgid "Use prices from product summary element"
+msgstr ""
+
+#: includes/ivpa-settings.php:371
+msgid ""
+"Use only variable price inside product summary element (Only Variable "
+"Products have this)"
+msgstr ""
+
+#: includes/ivpa-settings.php:372
+msgid "Add product price to top of product option"
+msgstr ""
+
+#: includes/ivpa-settings.php:373 includes/ivpa-settings.php:426
+msgid "Add product price to bottom of product options"
+msgstr ""
+
+#: includes/ivpa-settings.php:381
+msgid "Show Quantities"
+msgstr ""
+
+#: includes/ivpa-settings.php:383
+msgid "Check this option to enable product quantity in Shop."
+msgstr ""
+
+#: includes/ivpa-settings.php:392
+msgid "Select how to show the options in Shop Pages."
+msgstr ""
+
+#: includes/ivpa-settings.php:395
+msgid "Only Show Available Options"
+msgstr ""
+
+#: includes/ivpa-settings.php:396
+msgid "Enable Selection and Add to Cart"
+msgstr ""
+
+#: includes/ivpa-settings.php:403
+msgid "Options Alignment"
+msgstr ""
+
+#: includes/ivpa-settings.php:405
+msgid "Select options alignment in Shop Pages."
+msgstr ""
+
+#: includes/ivpa-settings.php:408
+msgid "Left"
+msgstr ""
+
+#: includes/ivpa-settings.php:409
+msgid "Right"
+msgstr ""
+
+#: includes/ivpa-settings.php:410
+msgid "Center"
+msgstr ""
+
+#: includes/ivpa-settings.php:424
+msgid "Use product price from shop element"
+msgstr ""
+
+#: includes/ivpa-settings.php:425
+msgid "Add product price to top of product options"
+msgstr ""
+
+#: includes/ivpa-settings.php:434
+msgid "Automatic Installation"
+msgstr ""
+
+#: includes/ivpa-settings.php:436
+msgid "Check this option to use automatic installation."
+msgstr ""
+
+#: includes/ivpa-settings.php:436
+msgid "Theme supported! Installation is set for"
+msgstr ""
+
+#: includes/ivpa-settings.php:436
+msgid "Theme not found in database. Using default settings."
+msgstr ""
+
+#: includes/ivpa-settings.php:445
+msgid "Product Page Hook"
+msgstr ""
+
+#: includes/ivpa-settings.php:447
+msgid ""
+"Product Page installation hook. Enter action name in following format "
+"action_name:priority."
+msgstr ""
+
+#: includes/ivpa-settings.php:447 includes/ivpa-settings.php:457
+msgid "Default:"
+msgstr ""
+
+#: includes/ivpa-settings.php:455
+msgid "Shop Hook"
+msgstr ""
+
+#: includes/ivpa-settings.php:457
+msgid ""
+"Shop installation hook. Enter action name in following format action_name:"
+"priority."
+msgstr ""
+
+#: includes/ivpa-settings.php:466
+msgid "Product"
+msgstr ""
+
+#: includes/ivpa-settings.php:468
+msgid "Enter product in Shop jQuery selector. Currently set to:"
+msgstr ""
+
+#: includes/ivpa-settings.php:477
+msgid " Product Images"
+msgstr ""
+
+#: includes/ivpa-settings.php:479
+msgid "Enter product page images jQuery selector. Currently set to:"
+msgstr ""
+
+#: includes/ivpa-settings.php:488
+msgid " Product Summary"
+msgstr ""
+
+#: includes/ivpa-settings.php:490
+msgid "Enter product summary with prices jQuery selector. Currently set to:"
+msgstr ""
+
+#: includes/ivpa-settings.php:499
+msgid "Add To Cart"
+msgstr ""
+
+#: includes/ivpa-settings.php:501
+msgid "Enter add to cart in Shop jQuery selector. Currently set to:"
+msgstr ""
+
+#: includes/ivpa-settings.php:509 includes/svx-settings/svx-settings.php:552
+msgid "Price"
+msgstr ""
+
+#: includes/ivpa-settings.php:511
+msgid "Enter price jQuery selector. Currently set to:"
+msgstr ""
+
+#: includes/ivpa-settings.php:520
+msgid "Options Support"
+msgstr ""
+
+#: includes/ivpa-settings.php:522
+msgid "Select product types that will support product options."
+msgstr ""
+
+#: includes/ivpa-settings.php:525
+msgid "Variable Products"
+msgstr ""
+
+#: includes/ivpa-settings.php:526
+msgid "All Products (Simple Products)"
+msgstr ""
+
+#: includes/ivpa-settings.php:534
+msgid "Out Of Stock Display"
+msgstr ""
+
+#: includes/ivpa-settings.php:536
+msgid ""
+"Select how the to display the Out of Stock options for variable products."
+msgstr ""
+
+#: includes/ivpa-settings.php:539
+msgid "Shown but not clickable"
+msgstr ""
+
+#: includes/ivpa-settings.php:540
+msgid "Shown and clickable"
+msgstr ""
+
+#: includes/ivpa-settings.php:541
+msgid "Hidden from pages"
+msgstr ""
+
+#: includes/ivpa-settings.php:549
+msgid "Image Switching Attributes"
+msgstr ""
+
+#: includes/ivpa-settings.php:551
+msgid ""
+"Select attributes that will switch the product image. Available only if "
+"Advanced Image Switcher option is used."
+msgstr ""
+
+#: includes/ivpa-settings.php:560
+msgid "Step Selection"
+msgstr ""
+
+#: includes/ivpa-settings.php:562
+msgid "Check this option to use stepped selection."
+msgstr ""
+
+#: includes/ivpa-settings.php:569
+msgid "Disable Option Deselection"
+msgstr ""
+
+#: includes/ivpa-settings.php:571
+msgid "Check this option to disallow option deselection/unchecking."
+msgstr ""
+
+#: includes/ivpa-settings.php:578
+msgid "Backorder Notifications"
+msgstr ""
+
+#: includes/ivpa-settings.php:580
+msgid "Check this option to enable and show backorder notifications."
+msgstr ""
+
+#: includes/ivpa-settings.php:587
+msgid "Plugin Scripts"
+msgstr ""
+
+#: includes/ivpa-settings.php:589
+msgid ""
+"Check this option to load plugin scripts in all pages. This option fixes "
+"issues in Quick Views."
+msgstr ""
+
+#: includes/ivpa-settings.php:596
+msgid "Use Caching"
+msgstr ""
+
+#: includes/ivpa-settings.php:598
+msgid "Check this option to use product caching for better performance."
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:139
+msgid "Hi! Welcome!"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:140
+msgid "Thank you for your purchase."
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:142
+msgid "license is not registered. Click Register now button to start."
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:144
+msgid "To use the plugin, please register you license."
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:145
+msgid "Register now"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:146
+msgid "How to register?"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:153
+msgid "Connecting to server"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:155
+msgid "OK"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:156
+msgid "Remove license"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:157
+#: includes/svx-settings/svx-settings.php:189
+msgid "License details"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:158
+msgid "Extend support"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:164
+msgid "Confirm key"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:165
+msgid "Get key"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:221
+#: includes/svx-settings/svx-settings.php:230
+msgid "Save"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:259
+msgid "Export"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:259
+msgid "Import"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:259
+msgid "Backup"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:259
+msgid "Restore"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:259
+msgid "Reset"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:267
+msgid "Add +"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:307
+msgid "Configure"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:315
+#: includes/svx-settings/svx-settings.php:336
+msgid "Add Item +"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:344
+msgid "Include/Exclude Manager"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:345
+msgid "Exclude"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:346
+msgid "Include"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:358
+msgid "Terms Manager"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:365
+msgid "Custom Order"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:374
+msgid "Type"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:376
+msgid "None"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:377
+msgid "Plain Text"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:378
+msgid "Color"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:379
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:380
+msgid "Select Box"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:382
+#: includes/svx-settings/svx-settings.php:390
+msgid "System Select"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:383
+msgid "Live Select"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:387
+msgid "Input Field"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:388
+msgid "Checkbox"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:389
+msgid "Textarea"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:407
+msgid "Style"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:409
+msgid "Border"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:410
+msgid "Background"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:411
+msgid "Round"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:415
+msgid "Normal"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:419
+msgid "Active"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:423
+msgid "Disabled"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:427
+msgid "Out of stock"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:434
+msgid "Show labels"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:441
+msgid "Design"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:448
+msgid "Swatch size"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:472
+msgid "Meta value"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:479
+#: includes/svx-settings/svx-settings.php:537
+msgid "Value"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:494
+msgid "Min"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:496
+msgid "Max"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:503
+msgid "Count"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:510
+#: includes/svx-settings/svx-settings.php:558
+msgid "Tooltip"
+msgstr ""
+
+#: includes/svx-settings/svx-settings.php:545
+msgid "Add Image +"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Improved Product Options for WooCommerce"
+msgstr ""
+
+#. #-#-#-#-#  improved-variable-product-attributes-en_UK.pot (Improved Product Options for WooCommerce 5.3.2)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  improved-variable-product-attributes-en_UK.pot (Improved Product Options for WooCommerce 5.3.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://xforwoocommerce.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "XforWooCommerce Themes and Plugins! Visit https://xforwoocommerce.com"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "XforWooCommerce"
+msgstr ""

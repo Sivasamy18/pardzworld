@@ -1,0 +1,45 @@
+.notice {
+  margin: 0;
+  font-size: 16px;
+}
+.notice:global(.is-error) {
+  background-color: var(--jp-red-0);
+}
+.notice :global(.components-notice__content) {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 12px 4px;
+}
+.notice :global(.components-notice__content) > svg {
+  fill: var(--jp-red-60);
+}
+.notice :global(.is-link) {
+  color: var(--jp-black);
+  font-size: 16px;
+  font-weight: 600;
+}
+.notice :global(.components-notice__dismiss) {
+  align-self: center;
+}
+.notice.is-warning {
+  color: var(--jp-yellow-40);
+}
+.notice.is-warning .icon {
+  fill: var(--jp-yellow-40);
+}
+.notice.is-info {
+  color: var(--jp-blue-40);
+}
+.notice.is-info .icon {
+  fill: var(--jp-blue-40);
+}
+.notice.is-success {
+  color: var(--jp-green);
+}
+.notice.is-success .icon {
+  fill: var(--jp-green);
+}
+.notice .message {
+  margin-left: 8px;
+}/*# sourceMappingURL=styles.module.css.map */
