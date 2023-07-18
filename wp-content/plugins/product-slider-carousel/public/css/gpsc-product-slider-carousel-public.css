@@ -1,0 +1,122 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.gpsc--product-slider-carousel {
+    position: relative;
+}
+.gpsc--product-slider-carousel h2.gpsc--section-title {
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 32px;
+}
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+.swiper-slide {
+    text-align: center;
+    /* font-size: 18px;
+    background: #fff; */
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+/* Customize Product Details */
+.gpsc--product-slider-carousel .gpsc--product-image a {
+    font-size: 14px;
+    text-decoration: none;
+}
+.gpsc--product-image img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.gpsc--product-image h2 {
+    margin: 0;
+    margin-bottom: -15px;
+    padding: 0;
+    font-size: 16px;
+}
+.swiper-slide p.product {
+    padding-top: 0 !important;
+    border: none !important;
+}
+
+/* Navigation Customization */
+.gpsc--product-slider-carousel .swiper-container {
+    padding-top: 50px;
+}
+.gpsc--product-slider-carousel .swiper-button-prev,
+.gpsc--product-slider-carousel .swiper-button-next {
+    left: auto;
+    right: 45px;
+    top: 25px;
+    outline: none;
+}
+.gpsc--product-slider-carousel .swiper-button-next {
+    margin-right: -40px;
+}
+.gpsc--product-slider-carousel .swiper-button-next:after,
+.gpsc--product-slider-carousel .swiper-button-prev:after {
+    font-family: fontAwesome;
+    font-size: 25px;
+    color: #333333;
+    padding: 4px 12px;
+    background: #d5d5d5;
+    border-radius: 2px;
+}
+.gpsc--product-slider-carousel .swiper-button-next:hover:after,
+.gpsc--product-slider-carousel .swiper-button-prev:hover:after {
+    background: #333333;
+    color: #ffffff;
+}
+
+/* Navigation */
+.gpsc--product-slider-carousel .swiper-button-prev:after,
+.gpsc--product-slider-carousel .swiper-container-rtl .swiper-button-next:after {
+    content: "\f104";
+}
+.gpsc--product-slider-carousel .swiper-button-next:after,
+.gpsc--product-slider-carousel .swiper-container-rtl .swiper-button-prev:after {
+    content: "\f105";
+}
+
+/* Pagination */
+.gpsc--product-slider-carousel .swiper-pagination-bullet {
+    background: #000;
+}
+.gpsc--product-slider-carousel .swiper-pagination-bullet-active {
+    background: #007aff;
+}
+.gpsc--product-slider-carousel .swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
+    background: #007aff;
+}
+
+/* Add to cart button */
+.gpsc--product-slider-carousel .add_to_cart_button {
+    display: block;
+    margin-top: 20px;
+    background: #eeeeee;
+    color: #333333;
+    border: 1px solid #eeeeee;
+    border-radius: 0px;
+    transition: .2s;
+}
+.gpsc--product-slider-carousel .add_to_cart_button:hover {
+    background: #d5d5d5;
+    color: #333333;
+    border-radius: 0px;
+}
